@@ -1,3 +1,10 @@
 *pycache*
 wandb/
 .idea
+
+labs.ipynb
+cleaned_data
+output_shn
+results
+dataset_clean.ipynb
+combine_checkpoints
