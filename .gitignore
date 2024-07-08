@@ -8,3 +8,7 @@ output_shn
 results
 dataset_clean.ipynb
 combine_checkpoints
+merge_llama3_adapter_Shan
+.chainlit
+chainlit.md
+vast_finetune.txt
